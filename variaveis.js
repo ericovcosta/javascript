@@ -14,3 +14,5 @@ console.log(typeof nome2)
 const pi=3.141923
 console.log(typeof pi)
 
+const mensagem = `O nome é: ${nome} e sobrenome é: ${sobrenome}`
+console.log(mensagem)
