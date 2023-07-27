@@ -8,7 +8,7 @@ function soma(numero1 = 0, numero2 = 0){
     return resultado
     //retorno
 }
-
+//Math
 //(a² + b²)
 function somaQuadrados(valorA, valorB){
     // return valorA**2 + valorB**2
